@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: Anthony David Smaniotto
+logo: /assets/img/headshot.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
