@@ -42,7 +42,12 @@ __Leo Burnett__ | *Senior Analyst*, April 2017 to May 2017<br/>
 - Designed models and A/B test plans in the email and web space to optimize campaign messaging and user experience.
 
 __NSA Media__ | *Senior Analyst*, August 2011 to May 2012<br/>
-*Market Analyst*, May 2010 to July 2011
+*Market Analyst*, May 2010 to July 2011<br>
+*Analyst Intern*, May 2009 to August 2009
+- Supervised a team that provided print media recommendations for a retail chain with over 1,000 stores nationwide
+- Optimized print advertising plan in major metro markets, saving a client $400,000 in print advertising for the year while maintaining a strong market presence.
+- Presented demonstrations of complex market analysis procedures and proprietary software to clients and employees across multiple departments.
+- Automated day-to-day processes by constructing macros using Alteryx, Excel, and VBA.
 
 ------
 
