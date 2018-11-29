@@ -9,13 +9,13 @@
 
 ### Skills
 
+
 &nbsp;  |  &nbsp;  |  &nbsp;
 ----|------|-----
 Python  |  R  |  SQL (Postgres, Presto) 
 Git|Bash/Unix shell|TensorFlow
 Keras|AWS (S3, Redshift, EMR)|Spark
 Apache Zeppelin|Kubernetes|Apache Airflow
-<br/>
 
 
 ### Experience
