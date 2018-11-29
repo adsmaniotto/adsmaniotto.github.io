@@ -1,33 +1,27 @@
 # Anthony Smaniotto
 ## Data Scientist & Developer
 
-> [adsmaniotto.com](http://adsmaniotto.com)
-
-> [adsmaniotto@gmail.com](mailto:adsmaniotto@gmail.com)
-
-> (708) 908-0204
+> [adsmaniotto.com](http://adsmaniotto.com) |
+[adsmaniotto@gmail.com](mailto:adsmaniotto@gmail.com) |
+[(708) 908-0204](tel:7089080204)
 
 ------
 
 ### Skills
 
-1. Python
-1. R
-1. SQL (Postgres, Presto)
-1. Git
-1. Bash/Unix shell
-1. Spark
-1. AWS (S3, Redshift, EMR)
-1. Apache Airflow
-1. Keras / TensorFlow
+
+&nbsp;  |  &nbsp;  |  &nbsp;
+----|------|-----
+Python  |  R  |  SQL (Postgres, Presto) 
+Git|Bash/Unix shell|TensorFlow
+Keras|AWS (S3, Redshift, EMR)|Spark
+Apache Zeppelin|Kubernetes|Apache Airflow
 
 ------
 
 ### Experience
 
-__SpotHero__
-
-*Data Scientist*, August 2017 to present
+**SpotHero** | *Data Scientist*, August 2017 to present
 
 - Created predictive models to optimize pricing strategy and conversion rates using internal search tracking data.
 - Developed an end-to-end license plate detection/OCR model using Keras and TensorFlow.
@@ -37,9 +31,7 @@ __SpotHero__
 - Mentored business analysts in SQL and Python, empowering the team to complement their BI tools with programming skills.
 - Wrote Data roadmap for Product/Engineering squads by collaborating with internal stakeholders to identify business needs.
 
-__GE Transportation__
-
-*Data Scientist Intern*, May 2017 to August 2017
+__GE Transportation__ | *Data Scientist Intern*, May 2017 to August 2017
 - Created a time series analysis to evaluate engine testing, resulting in over $200K in potential long-term cost-savings annually.
 - Built a text mining tool in R to scrape archives and perform NLP analysis, used to inform best practices for maintenance teams.
 
@@ -65,19 +57,25 @@ __NSA Media__
 
 ### Projects
 
-* **License Plate Recognition**
+* **License Plate Recognition** |
+TBD
 
-* **Deep Reinforcement Learning in Pac-Man**
+* **Deep Reinforcement Learning in Pac-Man** |
+TBD
 
-* **Trigger Word Detection**
+* **Trigger Word Detection** |
+TBD
 
 ------
 
 ### Education
 
 __The University of Chicago__
-**Masters of Science, Analytics** -- 2018, 4.0 GPA
-Capstone Project: *Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning*
+
+*Masters of Science, Analytics* | 2018, 4.0 GPA
+
+Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
 __University of Illinois, Urbana-Champaign__
-**Bachelors of Science, Applied Mathematics** -- 2010
+
+*Bachelors of Science, Applied Mathematics* | 2010
