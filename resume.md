@@ -9,14 +9,13 @@
 
 ### Skills
 
-
 &nbsp;  |  &nbsp;  |  &nbsp;
 ----|------|-----
 Python  |  R  |  SQL (Postgres, Presto) 
 Git|Bash/Unix shell|TensorFlow
 Keras|AWS (S3, Redshift, EMR)|Spark
 Apache Zeppelin|Kubernetes|Apache Airflow
-
+<br/>
 
 
 ### Experience
@@ -26,9 +25,9 @@ __SpotHero__ | *Data Scientist*, August 2017 to present
 - Developed an end-to-end license plate detection/OCR model using Keras and TensorFlow.
 - Successfully scaled and maintained data science ETL pipelines using Airflow, Spark, and Presto on an EMR cluster.
 - Developed a model to predict customer churn in Python, used to improve retention rates and optimize incentive spend.
-- Identified opportunities for customer personalization within the app through unsupervised learning /segmentation methods.
+- Identified opportunities for customer personalization within the product through unsupervised learning /segmentation methods.
 - Mentored business analysts in SQL and Python, empowering the team to complement their BI tools with programming skills.
-- Wrote Data roadmap for Product/Engineering squads by collaborating with internal stakeholders to identify business needs.
+- Contributed to data science/engineering roadmap by collaborating with internal stakeholders to identify business needs.
 
 __GE Transportation__ | *Data Scientist Intern*, May 2017 to August 2017
 - Created a time series analysis to evaluate engine testing, resulting in over $200K in potential long-term cost-savings annually.
@@ -52,7 +51,7 @@ __NSA Media__ | *Senior Analyst*, August 2011 to May 2012<br/>
 **License Plate Recognition** | Link TBD
 - Designed an end-to-model to detect and extract the value of a license plate from images of vehicles.
 - Two-step process included license plate region detection and OCR
-- Tech environment: Keras (Python), OpenCV, Convolutional/Recurrent Neural Networks
+- Tools used: Keras (Python), OpenCV, Convolutional/Recurrent Neural Networks
 
 **Deep Reinforcement Learning in Pac-Man** |
 Link TBD
@@ -69,7 +68,7 @@ __The University of Chicago__ | *Masters of Science, Analytics*
 Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
 [Certificate of Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)<br/>
-__Johns Hopkins University (via Coursera)__ | 2014
+__Johns Hopkins University (via Coursera)__ | 2015
 
 __University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*<br/>
 2010
