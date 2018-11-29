@@ -34,17 +34,15 @@ __GE Transportation__ | *Data Scientist Intern*, May 2017 to August 2017
 - Created a time series analysis to evaluate engine testing, resulting in over $200K in potential long-term cost-savings annually.
 - Built a text mining tool in R to scrape archives and perform NLP analysis, used to inform best practices for maintenance teams.
 
-__Leo Burnett__
-*Senior Analyst*, April 2017 to May 2017
-*Analyst*, September 2014 to March 2017
+__Leo Burnett__ | *Senior Analyst*, April 2017 to May 2017<br/>
+*Analyst*, September 2014 to March 2017<br/>
 *Associate Analyst*, June 2012 to August 2014
 - Delivered key insights into consumer behavior that informed user experience, communication strategy, and audience selection.
 - Provided client-facing promotion analyses used by the client and agency to make business decisions for future campaigns.
 - Automated ETL and reporting needs for a team of eight analysts by writing scripts to centralize CRM and clickstream data.
 - Designed models and A/B test plans in the email and web space to optimize campaign messaging and user experience.
 
-__NSA Media__
-*Senior Analyst*, August 2011 to May 2012
+__NSA Media__ | *Senior Analyst*, August 2011 to May 2012<br/>
 *Market Analyst*, May 2010 to July 2011
 
 ------
@@ -70,8 +68,8 @@ __The University of Chicago__ | *Masters of Science, Analytics*
 2018, 4.0 GPA
 Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
-[Certificate of Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)
+[Certificate of Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)<br/>
 __Johns Hopkins University (via Coursera)__ | 2014
 
-__University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*
+__University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*<br/>
 2010
