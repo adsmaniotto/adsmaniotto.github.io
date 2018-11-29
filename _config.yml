@@ -1,5 +1,7 @@
 title: Anthony David Smaniotto
 logo: /assets/img/headshot.png
+linkedin_icon: /assets/img/linkedin-icon.png
+github_icon: /assets/img/github.png
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

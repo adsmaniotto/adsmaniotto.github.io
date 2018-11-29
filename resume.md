@@ -1,7 +1,7 @@
 # Anthony Smaniotto
 ## Data Scientist & Developer
 
-> [adsmaniotto.com](http://www.adsmaniotto.com)
+> [adsmaniotto.com](http://adsmaniotto.com)
 
 > [adsmaniotto@gmail.com](mailto:adsmaniotto@gmail.com)
 
