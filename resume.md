@@ -17,11 +17,10 @@ Git|Bash/Unix shell|TensorFlow
 Keras|AWS (S3, Redshift, EMR)|Spark
 Apache Zeppelin|Kubernetes|Apache Airflow
 
-------
 
 ### Experience
 
-**SpotHero** | *Data Scientist*, August 2017 to present
+__SpotHero__ | *Data Scientist*, August 2017 to present
 
 - Created predictive models to optimize pricing strategy and conversion rates using internal search tracking data.
 - Developed an end-to-end license plate detection/OCR model using Keras and TensorFlow.
@@ -70,12 +69,9 @@ TBD
 
 ### Education
 
-__The University of Chicago__
-
-*Masters of Science, Analytics* | 2018, 4.0 GPA
-
+__The University of Chicago__ | *Masters of Science, Analytics*
+2018, 4.0 GPA
 Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
-__University of Illinois, Urbana-Champaign__
-
-*Bachelors of Science, Applied Mathematics* | 2010
+__University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*
+2010
