@@ -21,13 +21,12 @@ Apache Zeppelin|Kubernetes|Apache Airflow
 ### Experience
 
 __SpotHero__ | *Data Scientist*, August 2017 to present
-- Created predictive models to optimize pricing strategy and conversion rates using internal search tracking data.
-- Developed an end-to-end license plate detection/OCR model using Keras and TensorFlow.
+- Created predictive models to optimize pricing strategy and conversion rates using internal search data.
 - Successfully scaled and maintained data science ETL pipelines using Airflow, Spark, and Presto on an EMR cluster.
 - Developed a model to predict customer churn in Python, used to improve retention rates and optimize incentive spend.
-- Identified opportunities for customer personalization within the product through unsupervised learning /segmentation methods.
-- Mentored business analysts in SQL and Python, empowering the team to complement their BI tools with programming skills.
-- Contributed to data science/engineering roadmap by collaborating with internal stakeholders to identify business needs.
+- Built a visualization app to help analysts understand geospatial search data using D3.js and Flask.
+- Identified opportunities for UX personalization through unsupervised learning / clustering methods.
+- Designed and implemented models to uncover Conversion and Marketing Attribution KPIs using clickstream data.
 
 __GE Transportation__ | *Data Scientist Intern*, May 2017 to August 2017
 - Created a time series analysis to evaluate engine testing, resulting in over $200K in potential long-term cost-savings annually.
@@ -53,16 +52,17 @@ __NSA Media__ | *Senior Analyst*, August 2011 to May 2012<br/>
 
 ### Projects
 
-**License Plate Recognition** | Link TBD
+**License Plate Recognition** | [GitHub](https://github.com/adsmaniotto/license_plate_recognition)
 - Designed an end-to-model to detect and extract the value of a license plate from images of vehicles.
 - Two-step process included license plate region detection and OCR
-- Tools used: Keras (Python), OpenCV, Convolutional/Recurrent Neural Networks
+- Tools used: Keras, OpenCV, Convolutional/Recurrent Neural Networks, Google Colab (GPU)
 
-**Deep Reinforcement Learning in Pac-Man** |
-Link TBD
+**Deep Reinforcement Learning in Pac-Man** | Link TBD
+- Trained a Double-DQN Q-Learning agent to play Pac-Man in an Atari environment.
+- Compared and visualized explore-vs-exploit strategies 
+- Tools used: Keras, OpenAI/Gym, Reinforcement Learning, Google Colab (GPU)
 
-**Trigger Word Detection** |
-Link TBD
+**YOLO v3 implementation in PyTorch** [GitHub](https://github.com/adsmaniotto/pytorch_yolov3)
 
 ------
 
@@ -72,8 +72,11 @@ __The University of Chicago__ | *Masters of Science, Analytics*
 2018, 4.0 GPA
 Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
-[Certificate of Specialization in Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)<br/>
-__Johns Hopkins University (via Coursera)__ | 2015
+[Certificate of Specialization, Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)<br/>
+__Coursera__ | 2015
+
+[Certificate of Specialization, Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/SHQE48S2SYK9)<br/>
+__Coursera__ | 2019
 
 __University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*<br/>
 2010
