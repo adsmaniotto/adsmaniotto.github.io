@@ -15,7 +15,7 @@
 Python  |  R  |  SQL (Postgres, Presto) 
 Git|Bash/Unix shell|TensorFlow
 Keras|AWS (S3, Redshift, EMR)|Spark
-Apache Zeppelin|Kubernetes|Apache Airflow
+PyTorch|Kubernetes|Apache Airflow
 
 
 ### Experience
@@ -62,7 +62,7 @@ __NSA Media__ | *Senior Analyst*, August 2011 to May 2012<br/>
 - Compared and visualized explore-vs-exploit strategies 
 - Tools used: Keras, OpenAI/Gym, Reinforcement Learning, Google Colab (GPU)
 
-**YOLO v3 implementation in PyTorch** [GitHub](https://github.com/adsmaniotto/pytorch_yolov3)
+**YOLO v3 implementation in PyTorch** | [GitHub](https://github.com/adsmaniotto/pytorch_yolov3)
 
 ------
 
@@ -72,11 +72,9 @@ __The University of Chicago__ | *Masters of Science, Analytics*
 2018, 4.0 GPA
 Capstone Project: "Seamless Parking: An Analytical Approach to License Plate Recogntion Using Machine Learning"
 
-[Certificate of Specialization, Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y)<br/>
-__Coursera__ | 2015
+[Certificate of Specialization, Data Science](https://www.coursera.org/account/accomplishments/specialization/ELUTABU84P3Y) | __Coursera__ | 2015
 
-[Certificate of Specialization, Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/SHQE48S2SYK9)<br/>
-__Coursera__ | 2019
+[Certificate of Specialization, Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/SHQE48S2SYK9) | __Coursera__ | 2019
 
 __University of Illinois, Urbana-Champaign__ | *Bachelors of Science, Applied Mathematics*<br/>
 2010
